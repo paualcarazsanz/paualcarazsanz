@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**paualcarazsanz/paualcarazsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+¡Hola! Soy Pau Alcaraz, un estudiante apasionado por la programación y la tecnología. Mi interés por la informática comenzó desde temprana edad y desde entonces he estado explorando y aprendiendo sobre diferentes lenguajes y tecnologías.
 
-Here are some ideas to get you started:
+Experiencia y habilidades
+Lenguajes de programación: Java, HTML, CSS, XML, Python, C#, SQL.
+Objetivos
+Me encuentro en constante búsqueda de conocimiento y siempre estoy dispuesto a enfrentar nuevos desafíos. Mi objetivo es seguir creciendo como desarrollador y contribuir al mundo de la tecnología de manera significativa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+¡Me encantaría conectar contigo! No dudes en contactarme a través de paualcarazsanz@gmail.com o instagram: @pau.alcaraaz .
+
+¡Gracias por visitar mi perfil!
