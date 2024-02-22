@@ -20,4 +20,4 @@ Me encuentro en constante búsqueda de conocimiento y siempre estoy dispuesto a 
 ¡Gracias por visitar mi perfil!
 
 
-![GIF]((https://tenor.com/bFLpy.gif)https://tenor.com/bFLpy.gif)
+![GIF](https://tenor.com/bFLpy.gif)https://tenor.com/bFLpy.gif](https://tenor.com/ca/view/css-html-computers-coding-programming-gif-22307686)https://tenor.com/ca/view/css-html-computers-coding-programming-gif-22307686)
