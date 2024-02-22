@@ -20,4 +20,4 @@ Me encuentro en constante búsqueda de conocimiento y siempre estoy dispuesto a 
 ¡Gracias por visitar mi perfil!
 
 
-<img alt="myGif" src="https://giphy.com/embed/VTtANKl0beDFQRLDTh"align="right"/>
+<img alt="myGif" src="[https://giphy.com/embed/VTtANKl0beDFQRLDTh](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQybXZyd3JxMjVqdWRiejc2Ynlyc3Z2Ym9kd3AyN25jcWRidnl5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQybXZyd3JxMjVqdWRiejc2Ynlyc3Z2Ym9kd3AyN25jcWRidnl5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"align="right"/>
