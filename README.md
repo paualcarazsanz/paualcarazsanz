@@ -20,4 +20,5 @@ Me encuentro en constante búsqueda de conocimiento y siempre estoy dispuesto a 
 ¡Gracias por visitar mi perfil!
 
 ![Css Html GIF](https://tenor.com/view/css-html-computers-coding-programming-gif-22307686)
-from [Css GIFs](https://tenor.com/search/css-gifs)
+*From [Css GIFs](https://tenor.com/search/css-gifs)*
+
